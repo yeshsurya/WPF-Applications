@@ -35,7 +35,7 @@ namespace PrimeCounter_Async
                 int pcount = 0;
                 for (int i = first; i <= last; i++)
                 {
-                    ct.ThrowIfCancellationRequested();
+                    ct.ThrowIfCancellationRequested();//Throws an OperationCancelledException if this token has had cancellation requested.
                     bool isPrime = true;
                     int limit = (int)Math.Sqrt(i);
                     for (int j = 2; j <= limit; j++)
@@ -84,7 +84,8 @@ namespace PrimeCounter_Async
 
         private void _cancelButton_Click(object sender, RoutedEventArgs e)
         {
-            _cts.Cancel();
+            _cts.Cancel();
+
         }
     }
 }
