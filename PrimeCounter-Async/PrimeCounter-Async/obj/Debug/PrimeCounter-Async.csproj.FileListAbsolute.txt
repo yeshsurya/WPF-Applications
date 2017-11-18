@@ -1,0 +1,15 @@
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter-Async.csprojResolveAssemblyReference.cache
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\MainWindow.g.cs
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\App.g.cs
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter-Async_MarkupCompile.cache
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter-Async_MarkupCompile.lref
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\bin\Debug\PrimeCounter-Async.exe.config
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\bin\Debug\PrimeCounter-Async.exe
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\bin\Debug\PrimeCounter-Async.pdb
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\MainWindow.baml
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter-Async.g.resources
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter_Async.Properties.Resources.resources
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter-Async.csproj.GenerateResource.Cache
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter-Async.csproj.CoreCompileInputs.cache
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter-Async.exe
+C:\Users\ynagaraj\Source\Repos\PrimeCounter-Async\PrimeCounter-Async\obj\Debug\PrimeCounter-Async.pdb
