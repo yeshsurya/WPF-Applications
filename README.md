@@ -9,6 +9,6 @@
 </br>
 <h2>Prime Counter - Asynchronous </h2>
 <p>
-  WPF application which demonstrates usage of async and await after c# 5.0. Progress Bar updated from an Asynchronous task. Cancelation token implemented, which is usually part of major enterprise applications.Prime calculation will be done in background while UI is made non responsive.
+  WPF application which demonstrates usage of async and await which was introduced after c# 5.0. Progress Bar gets updated from an Asynchronous task. Cancelation token is implemented, which is usually part of most of enterprise applications.Primes count calculation will be done in background while UI remains responsive.
 </p>
 
