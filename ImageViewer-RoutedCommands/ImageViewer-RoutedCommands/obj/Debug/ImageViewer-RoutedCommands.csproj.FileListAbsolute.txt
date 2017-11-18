@@ -1,0 +1,15 @@
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\bin\Debug\ImageViewer-RoutedCommands.exe.config
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\bin\Debug\ImageViewer-RoutedCommands.exe
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\bin\Debug\ImageViewer-RoutedCommands.pdb
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer-RoutedCommands.csprojResolveAssemblyReference.cache
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\MainWindow.g.cs
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\App.g.cs
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer-RoutedCommands_MarkupCompile.cache
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer-RoutedCommands_MarkupCompile.lref
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\MainWindow.baml
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer-RoutedCommands.g.resources
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer_RoutedCommands.Properties.Resources.resources
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer-RoutedCommands.csproj.GenerateResource.Cache
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer-RoutedCommands.csproj.CoreCompileInputs.cache
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer-RoutedCommands.exe
+c:\users\ynagaraj\Source\Repos\ImageViewer-RoutedCommands\ImageViewer-RoutedCommands\obj\Debug\ImageViewer-RoutedCommands.pdb
