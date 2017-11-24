@@ -3,8 +3,7 @@
 </br>
 <h2>Prime Counter</h2>
 </br>
-<p> WPF application which demonstrates usage of system thread pool provided by CLR. 
-  Getting work done without making UI non responsive.
+<p> WPF application which demonstrates usage of system thread pool provided by CLR. Actual task of calculating primes will be done in a background thread, using "System.Threading.ThreadPool.QueueUserWorkItem". This enables UI thread to remain responsive, while calculation happens.
 </p>
 </br>
 <h2>Prime Counter - Asynchronous </h2>
