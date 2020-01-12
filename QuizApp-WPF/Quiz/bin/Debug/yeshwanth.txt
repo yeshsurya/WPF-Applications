@@ -1,0 +1,6 @@
+Participant:		 yeshwanth
+Question number:		 1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 
+Correct ODP:		 D  D  D  A  A  D  B  D  A  C  A  B  B  B  C  D  A  C  D 
+Obtained ODP:		 C  B  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C  C 
+Points to get:	 2  3  2  4  4  2  1  5  2  3  4  2  4  3  5  6  1  2  4 
+Number of points scored:10

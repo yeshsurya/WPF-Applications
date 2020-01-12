@@ -1,0 +1,114 @@
+Using which section attribute<body> can you set the color of a hyperlink already visited on a website?(HTML)
+reflink
+ulink
+alink
+vlink
+D2
+Set the font color with the attribute: (CSS)
+font-color
+text-color
+face-color
+color
+D3
+Which of the following attributes defines a block (frame)? (HTML)
+<td>
+<table>
+<p>
+<div>
+D2
+What does the opacity attribute specify? (CSS)
+transparency
+letter size
+shadow under the text
+vertical alignment
+A4
+Which of the following tags will create a bulleted list? (HTML)
+<ul type="disc">
+<li type="i">
+<ol type="1">
+<dl type="rect">
+A4
+Which of the <body> tag's attributes are used to set the image as the background? (HTML)
+background-img
+bgimg
+bgimage
+background
+D2
+Which <a> tag attribute sets the redirection address when clicked on hyperlinks? (HTML)
+adress
+href
+src
+file
+B1
+The bottom margin is specified by the attribute: (CSS)
+margin-lowercase
+margin-low
+margin-below
+margin-bottom
+D5
+Which of these colors is correctly recorded? (HTML)
+#111111
+#cAcAcA
+#H3H3H3
+#yellow
+A2
+Which hyperlink attribute sets the hint that the user will see when hovering over the link? (HTML)
+hint
+title
+alt
+text
+C3
+How does the text change the following entry -> text-transform: uppercase; ? (CSS)
+Converts all letters to uppercase
+Turns all letters to lowercase
+characters without tail
+Only capitalize the first letter of a sentence
+A4
+Which of the following headings has the smallest font recorded? (HTML)
+<h0>
+<h6>
+<h10>
+<h3>
+B2
+Which of the following code fragments has an error? (Javascript)
+var number *= 14
+var number:= 14
+var number%= 14
+var number-= 14
+B4
+Which keyword is used to delete the entire table from the database? (MySQL)
+DELTREE
+DELETE
+DROP
+DISCHARGE
+B3
+The variable type called float stores: (C++)
+integers
+Subtitles
+floating point numbers
+single characters
+C5
+You will receive the instruction to suspend program execution for 2 seconds: (C++)
+Wait(2000)
+Stop(2000)
+Delay(2000)
+Sleep(2000)
+D6
+Which declaration is saved correctly? (C++)
+int x;
+integer x;
+x:integer;
+x=integer;
+A1
+From what range will the number be drawn: rand ()% 10 + 2 (C++)
+0..9
+2..9
+2..11
+0..11
+C2
+How many times the loop will be executed: for (int i = 4; i> = - 2; i--) (C++)
+not once
+infinitely many times
+6
+7
+D4
